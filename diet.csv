@@ -1,0 +1,100 @@
+Food Item,Food category,Calories(kcal),Carbohydrates (g),Proteins (g),Fats (g),Fiber (g),Glycemic Index,Serving Size
+Apple,Fruit,95,25,1,0.3,4,39,1 medium (182g)
+Pecans,Nuts,196,4,3,20,2.7,10,1 oz (28g)
+Berries MIx,Fruit,70,17,2,0.5,6,25,1 cup (145g)
+Spinach,Vegetable,7,1,1,0,1,15,1 cup (30g)
+Salmon,Fish,206,0,22,13,0,0,3 oz (85g)
+Brown Rice,Grain,215,45,5,1.5,3.5,68,1 cup cooked (195g)
+Poppy seeds,Seeds ,47,4.7,1.6,3,2.8,35,1 tablespoon
+Grilled Chicken Breast,Meat,165,0,31,3.6,0,0,3 oz cooked (85g)
+Sweet Potato,Root Vegetable,112,26,2,0,3.9,61,1 medium (130g)
+Olive Oil,Fat,119,0,0,13.5,0,0,1 tbsp (13.5g)
+Greek Yogurt (unsweetened),Dairy,100,6,10,3.5,0,11,1 cup (240g)
+Almonds,Nuts,7,1,0.3,0.6,0.9,15,1 almond
+Whole Wheat Bread,Grain,69,12,3,1,1.9,71,1 slice (28g)
+Broccoli,Vegetable,55,11,3.7,0.6,3.7,15,1 cup chopped (91g)
+Lentils,Legumes,230,40,18,1,15.6,29,1 cup cooked (198g)
+Carrot,Vegetable,41,10,1,0.2,2.9,71,1 medium (61g)
+Sunflower seeds ,Seeds/Nuts,160,6,5.5,14,3,35,3 tablespoons
+Tilapia,Fish,111,0,23,2.3,0,0,3 oz cooked
+Chia seeds,Seeds ,138,12,4,9,10,30,2 tablespoons
+Venison,Meat,158,26,6,3.2,0,0,3 oz cooked
+Stevia-based Sweeteners:,Sugar substitue,0,0,0,0,0,0,1 tablespoon
+Navy Beans,Legumes,255,47,15,1,19,29,1 cup
+Kiwi,Fruits,61,15,1.1,0.5,3,52,1 medium (100g)
+Pumpkin seeds,Seeds/Nuts,150,5,7,13,17,25,2 tablespoons
+Eggplant,Vegetable,35,8,1,0,3,15,1 cup (82g)
+Quinoa,Grain,222,39,8,4,5,53,1 cup (185g)
+Sesame seeds,Seeds ,160,7,5,13.5,3.3,35,3 tablespoons
+Catfish,Fish,105,0,21,2.4,0,0,3 oz cooked
+Okra,Vegetable,31,7,2,0.3,3.2,20,1 cup (160g)
+Date Sugar,Sweetener,45,12,0,0,3,0,1 tablespoon
+Banana,Fruit,105,27,1.3,0.3,3.1,51,1 medium (118g)
+Mussels,Shellfish,146,7,20,4.5,0,0,3 oz cooked
+Hemp seeds,Seeds/Nuts,166,3.3,9.5,14.6,1.2,4,3 tablespoons
+Snow peas,Vegetable,26,6,2,0,2.5,30,1 cup (100g)
+Sorghum,Grain,195,43,6,1.5,6.7,70,1 cup (192g)
+Bell Peppers,Vegetable,29,7,1,0,2.5,15,1 cup (149g)
+Kale,Leafy Greens,33,6,3,0.6,1.3,5,1 cup (67g)
+Tofu,Plant-based Protein,94,3,10,6,1,15,1/2 cup (126g)
+Turkey,Poultry,135,25,3,7,0,0,3 oz cooked
+Oats,Grains,154,27,5,3,4,57,1/2 cup (40g)
+Avocado,Fruits,120,6,2,10.5,5,40,1/2 avocado (100g)
+Sardines,Fish,177,0,21,10,0,0,3 oz (85g)
+Cottage cheese,Dairy,110,3,14,4,0,30,1/2 cup (113g)
+Edamame,Legumes,94,8,8,3,4,14,1/2 cup (81g)
+Monk fruit,Sweetener,0,1,0,0,0,0,1 teaspoon
+Cinnamon,Spice,6,2,0,0,1.4,5,1 teaspoon
+Garlic,Vegetable,4,1,0.2,0,0.1,10,1 clove
+Mackerel,Fish/Seafood,186,0,21,11,0,0,3 oz (85g)
+Barley,Grain,97,21,2.5,0.4,3,25,1/2 cup (97g)
+Cauliflower,Vegetable,27,6,2,0.3,2.5,10,1 cup (100g)
+Black beans,Legumes,114,20,7,0.5,8,30,1/2 cup (186g)
+Peaches,Fruits,58,14,1,0,2,35,1 medium-sized peach (150g)
+Erythritol,Sugar substitue,0,1,0,0,0,0,1 teaspoon
+Eggs,Protein,72,0.6,6,5,0,0,1 large egg (50g)
+Pork tenderloin,Meat,122,22,3,3.5,0,0,3 oz cooked
+Melon (cantaloupe),Fruit,60,15,1,0.4,1.6,65,1 cup (177g)
+Pinto beans,Legumes,122,22,7,1,7,55,1/2 cup (86g)
+Shrimps,Seafood,84,0,18,1.7,1.2,0,3 oz (85g)
+"Herbs (thyme, basil, oregano)",Herb,1,0,0,0,0,5,2 tablespoons
+Nectarines,Fruits,62,15,1.5,0.4,2.4,35,1 medium-sized nectarine
+Xylitol,Sugar substitue,9,4,0,0,0,7,1 teaspoon
+Pistachios,Nuts,158,8,5.8,13,10,15,1 oz (28g)
+Teff,Grains,255,50,9,2,10,57,1 cup (193g)
+Black-Eyed peas,Legumes,99,21,6,0.6,5,33,1/2 cup cooked
+Coconut oil,Oil,120,14,0,0,0,2,1 tablespoon
+Hazelnuts,Nuts ,176,5.5,4.2,17,2.7,15,1 oz (28g)
+Millet,Grains ,207,41,6,1.7,2.3,52.7,1 cup (174g)
+Grapefruits ,Fruits ,52,13,1,0,2,25,1 medium-sized grapefruit (230g)
+Kidney beans,Legumes ,112,20,7,0.5,6,39,1/2 cup (86g)
+Pears ,Fruits,101,27,1,0,6,20,1 medium-sized pear (178g)
+Turmeric ,Spice/Root ,8,2,0.2,0.1,0.5,15,1 teaspoon
+Asparagus,Vegetable,40,8,4,0.4,4,15,1 cup (180g)
+Chickpeas,Legumes,134,23,7,2,6,28,1/2 cup (82g)
+Cherries,Fruits ,87,22,1,0,3,22,1 cup (138g)
+Ginger ,Root/Spice,4,1,0,0,0.1,10,1 tablespoon (6g)
+Brussels sprout,Vegetable,56,12,4,0.6,4,15,1 cup (156g)
+Bulgur,Grain,151,34,6,0.4,8,33.8,1 cup (182g)
+Walnuts,Nuts,185,4,4,18,2,15,1 oz (28g)
+Honey,Sweetener,64,17.3,0,0.1,0.1,62,1 tablespoon (21g)
+Oranges ,Fruits,62,15,1.2,0.2,3.1,43,1 medium-sized orange (131g)
+Cabbage,Vegetable,44,10,2,0.2,4,10,1 cup (150g)
+Farro ,Grain,100,20,3.5,0.5,2.5,45,1/2 cup (100g)
+Agave nectar,Sweetener,60,16,0,0,0,15,1 tablespoon (21g)
+Scallops ,Seafood,95,0,19,1.2,0,0,3 oz (85g)
+Plums ,Fruits,16,4,0.2,0.1,0.6,40,1 medium-sized plum (66g)
+Zucchini,Vegetable,20,4,1,0,1,15,1 cup (124g)
+Bok choy,Leafy Greens,9,1.5,1,0.1,1,83,1 cup shredded
+Lima beans,Legumes,104,19,6,0.4,6,46,1/2 cup cooked
+Artichokes ,Vegetable,60,13,3,0.4,7,20,1 medium-sized artichoke (120g)
+Crab ,Seafood,98,0,20,1.1,0,5,3 oz (85g)
+Guava ,Fruits,112,24,2.6,1,9,12,1 cup raw (244g)
+Adzuki beans,Legumes,147,27,9,0.5,7.3,26,1/2 cup cooked
+BuckWheat,Grain,155,33.5,5.7,1,4.5,55,1 cup (168g)
+Oysters ,Seafood,68,0,9,3,0.8,0,3 oz (85g)
+Swiss chard,Leafy Greens,35,7,3,0.2,3.7,2,1 cup cooked
+Radishes,Vegetable,19,4,1,0.1,2,15,1 cup sliced
+Maple syrup,Sweetener,52,13.4,0,0.1,0,54,1 tablespoon (20g)
+Macadamia nuts ,Nuts,203,3.9,2.2,21.5,2.4,10,1 oz (28g)
+Mung beans,Legumes,100,18,7,0.3,7,25,1/2 cup cooked

@@ -1,0 +1,12 @@
+flask
+numpy
+pandas
+python-dotenv
+flask_session
+Flask-Cors
+Flask-Session
+Flask-Login
+Flask-Bcrypt
+scikit-learn
+WTForms
+mysql-connector

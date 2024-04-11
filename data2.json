@@ -1,0 +1,14 @@
+    {
+        "Gender" : "M",	
+        "year": 1984,
+        "Urea": 7,
+        "Cr": 12,	
+        "HbA1c": 13,	
+        "Chol": 33,	
+        "TG": 4,	
+        "HDL": 4,	
+        "LDL": 2,	
+        "VLDL": 7,
+        "height":180, 
+        "weight":70
+    }
